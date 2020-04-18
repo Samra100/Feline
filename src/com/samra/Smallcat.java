@@ -17,6 +17,9 @@ public class Smallcat extends Feline {
     }
 
     public static int speedRange() {
+
+        int speedRange = speedRange();
+
         System.out.println(speedRange());
 
     }

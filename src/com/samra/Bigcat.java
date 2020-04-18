@@ -3,6 +3,7 @@ import java.util.Random;
 public class Bigcat extends Feline {
     int weight = 0;
     int height = 0;
+    int n1 = 0;
 
 
     public static boolean loud() {
@@ -20,7 +21,7 @@ public class Bigcat extends Feline {
         Random rnd = new Random();
         int n1 = rnd.nextInt();
 
-            System.out.println(41);
+            System.out.println(rnd.nextInt(n1));
         }
     }
 

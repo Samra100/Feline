@@ -37,7 +37,7 @@ public class Medicat extends Feline {
 
         for (int i = 0; i <=45;i ++)
 
-        System.out.println();
+        System.out.println(i);
     }
 
     }
