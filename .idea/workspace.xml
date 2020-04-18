@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3789d4e7-a7c9-476a-8829-02d2075cbeb3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/samra/Bigcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/samra/Bigcat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/samra/Smallcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/samra/Smallcat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +62,7 @@
       <workItem from="1586889145201" duration="6573000" />
       <workItem from="1586912249137" duration="1404000" />
       <workItem from="1587142509746" duration="16069000" />
+      <workItem from="1587198540672" duration="673000" />
     </task>
     <servers />
   </component>
